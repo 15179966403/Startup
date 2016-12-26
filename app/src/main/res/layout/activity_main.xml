@@ -11,6 +11,7 @@
     tools:context="com.hrc.administrator.startup.MainActivity">
 
     <TextView
+        android:id="@+id/tvBatteryChanged"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="开机后第一个运行的程序" />
